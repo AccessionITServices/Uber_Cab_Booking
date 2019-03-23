@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YOUR APP NAME</string>
+    <string name="bot_name">BookTrip</string>
+    <string name="bot_alias">latest</string>
+    <string name="identity_id_test">CAGNITO IDENTITY POOL ID</string>
+    <string name="cognito_region">CAGNITO REGION</string>
+    <string name="lex_region">LEX BOT REGION</string>
+    <string name="screen_options_main_message">Amazon Lex</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
